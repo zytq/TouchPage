@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF5A7F</color>
+    <color name="colorPrimaryDark">#FF5A7F</color>
+    <color name="colorAccent">#FF5A7F</color>
+    <color name="font_666">#666666</color>
+    <color name="font_999">#999999</color>
+    <color name="font_333">#333333</color>
+    <color name="font_e5e5">#e5e5e5</color>
+    <color name="font_414141">#414141</color>
+    <color name="font_191919">#191919</color>
+    <color name="bg_green_08bc13">#08bc13</color>
+    <color name="font_4990E2">#4990E2</color>
+    <color name="bg_red_ff5a7f">#FF5A7F</color>
+    <color name="bg_red_ff5a7f_trans">#a6FF5A7F</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="translucent">#00000000</color>
+    <color name="dark">#88888888</color>
+
+    <color name="green_text">#1DAA65</color>
+    <color name="config_black_color">#323333</color>
+    <color name="gray_line_color">#dcdcdc</color>
+    <color name="gray_bg">#80dcdcdc</color>
+    <color name="text_hint_color">#969797</color>
+
+    <!--浅黄-->
+    <color name="light_yellow">#FF8207</color>
+
+    <color name="base_text">#333333</color>
+    <color name="middle_text">#666666</color>
+    <color name="gray_text">#999999</color>
+    <!--背景色-->
+    <color name="background">#F0EFF5</color>
+    <!--线颜色-->
+    <color name="line_bg">#ECECEC</color>
+
+
+
+
+
+
+    <!--白色透明度-->
+    <color name="translucent_white_05">#f2ffffff</color>
+    <color name="translucent_white_10">#e6ffffff</color>
+    <color name="translucent_white_15">#d9ffffff</color>
+    <color name="translucent_white_20">#ccffffff</color>
+    <color name="translucent_white_25">#bfffffff</color>
+    <color name="translucent_white_30">#b3ffffff</color>
+    <color name="translucent_white_35">#a6ffffff</color>
+    <color name="translucent_white_40">#99ffffff</color>
+    <color name="translucent_white_45">#8cffffff</color>
+    <color name="translucent_white_50">#80ffffff</color>
+    <color name="translucent_white_55">#73ffffff</color>
+    <color name="translucent_white_60">#66ffffff</color>
+    <color name="translucent_white_65">#59ffffff</color>
+    <color name="translucent_white_70">#4dffffff</color>
+    <color name="translucent_white_75">#40ffffff</color>
+    <color name="translucent_white_80">#33ffffff</color>
+    <color name="translucent_white_90">#26ffffff</color>
+    <color name="translucent_white_95">#0dffffff</color>
+
+    <!--黑色透明度-->
+    <color name="translucent_black_05">#f2000000</color>
+    <color name="translucent_black_10">#e6000000</color>
+    <color name="translucent_black_15">#d9000000</color>
+    <color name="translucent_black_20">#cc000000</color>
+    <color name="translucent_black_25">#bf000000</color>
+    <color name="translucent_black_30">#b3000000</color>
+    <color name="translucent_black_35">#a6000000</color>
+    <color name="translucent_black_40">#99000000</color>
+    <color name="translucent_black_45">#8c000000</color>
+    <color name="translucent_black_50">#80000000</color>
+    <color name="translucent_black_55">#73000000</color>
+    <color name="translucent_black_60">#66000000</color>
+    <color name="translucent_black_65">#59000000</color>
+    <color name="translucent_black_70">#4d000000</color>
+    <color name="translucent_black_75">#40000000</color>
+    <color name="translucent_black_80">#33000000</color>
+    <color name="translucent_black_90">#26000000</color>
+    <color name="translucent_black_95">#0d000000</color>
+
+    <color name="white90">#E5FFFFFF</color>
+    <color name="white70">#B2FFFFFF</color>
+    <color name="white40">#66FFFFFF</color>
+    <color name="black90">#E5000000</color>
+    <color name="black85">#D8000000</color>
+    <color name="black75">#BF000000</color>
+    <color name="black70">#B2000000</color>
+    <color name="black60">#a2000000</color>
+    <color name="black40">#66000000</color>
+    <color name="black30">#4C000000</color>
+    <color name="black50">#80000000</color>
+    <color name="black25">#40000000</color>
+    <color name="black20">#33000000</color>
+    <color name="black15">#26000000</color>
+    <color name="black10">#19000000</color>
+    <color name="black5">#10000000</color>
+    <color name="green40">#ADD597</color>
+    <color name="color40">#FFB8B5</color>
+    <color name="color10">#FFF5F4</color>
+    
+
+
+
+
+</resources>

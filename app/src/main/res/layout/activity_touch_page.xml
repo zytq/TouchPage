@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@+id/container"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_centerInParent="true"
+            android:textColor="#0000FF"
+            android:textSize="50sp"
+            android:text="主界面"
+            />
+    </RelativeLayout>
+
+
+    <include
+        android:id="@+id/load_head"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        layout="@layout/layout_live_load_head"/>
+    <include
+        android:id="@+id/load_foot"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        layout="@layout/layout_live_load_foot"
+        android:visibility="gone"/>
+
+    <include
+        android:id="@+id/live_loading"
+        android:visibility="gone"
+        layout="@layout/live_loading"/>
+</RelativeLayout>
